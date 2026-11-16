@@ -1,6 +1,6 @@
-# AetherForge (demo)
+# AetherForge: The Cold Hearth (demo)
 
-A playable demo of **AetherForge**, a dark-fantasy alchemy forge: put two things on the anvil, strike, and fill the Museum while a smug salamander called Smudge supervises from the coal.
+A playable demo of **AetherForge: The Cold Hearth**, a dark-fantasy alchemy forge: put two things on the anvil, strike, and fill the Museum while a smug salamander called Smudge supervises from the coal.
 
 **Play it in your browser: https://noire-phi.github.io/aetherforge-demo/**
 
